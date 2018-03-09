@@ -38,6 +38,4 @@ $ gulp watch
 
 ## Grup 3
 
-- Enric Beltran.
-- Javier López.
-- Roger Forner.
+-Oriol Beltran.
